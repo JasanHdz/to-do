@@ -23,7 +23,7 @@ flags:
   node app create -d "new task"
   node app update -d "task" -c
   node app list
-  node delete -d "task"
+  node app delete -d "task"
 ```
 
 ### More info
