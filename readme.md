@@ -18,15 +18,15 @@ flags:
 -c = --check
 ```
 
-command line
-````
+### Command line
+```
   node app create -d "new task"
   node app update -d "task" -c
-  node list
+  node app list
   node delete -d "task"
 ```
 
-more info
+### More info
 ```
 node app --help
 ```
